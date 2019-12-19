@@ -1,0 +1,48 @@
+{
+    "name": "Pingometer",
+    "description": "Pingometer is a service that monitors the uptime, downtime, and performance of websites. Get 24\/7 monitoring - sign up for your FREE account today!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18847-pingometer.jpg",
+    "tags": [
+        "have api",
+        "monitoring",
+        "performance",
+        "relative data",
+        "service api",
+        "streams"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/pingometer\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/pingometer.com\/blog\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/www.crunchbase.com\/organization\/pingometer"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/pingometer"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/pingometer"
+        },
+        {
+            "type": "Integrations",
+            "url": "https:\/\/pingometer.com\/integrations\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/pingometer"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/pingometer.com\/"
+        }
+    ]
+}
